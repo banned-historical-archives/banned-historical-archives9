@@ -27,5 +27,5 @@ export default {
     ocr_exceptions: {},
   },
   parser_id: 'automation',
-  path: '/archives9/8f8c68cf-5727-4178-98ae-05b57cb2623d.pdf',
+  path: '8f8c68cf-5727-4178-98ae-05b57cb2623d.pdf',
 };
