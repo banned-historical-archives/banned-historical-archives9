@@ -1,14 +1,16 @@
 export default {
-  entity: {
-    id: 'CCRD-dayuejin',
-    name: '中国大跃进-大饥荒数据库',
-    internal: false,
-    official: false,
-    type: 'db',
-    author: '宋永毅',
-    files: '',
+  "entity": {
+    "id": "CCRD-dayuejin",
+    "name": "中国大跃进-大饥荒数据库",
+    "internal": false,
+    "official": false,
+    "type": "db",
+    "author": "宋永毅",
+    "files": [
+      ""
+    ]
   },
-  parser_option: {},
-  parser_id: 'CCRD',
-  path: 'CCRD/2',
-};
+  "parser_option": {},
+  "parser_id": "CCRD",
+  "path": "CCRD/2"
+}
