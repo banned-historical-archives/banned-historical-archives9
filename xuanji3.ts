@@ -21,5 +21,6 @@ export default {
   },
   "parser_id": "xuanji",
   "path": "books/毛泽东选集(1967)3.pdf",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }

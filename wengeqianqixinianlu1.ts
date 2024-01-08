@@ -20,5 +20,6 @@ export default {
   },
   "parser_id": "wengeqianqixinianlu1",
   "path": "books/文革前期系年录1.pdf",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }

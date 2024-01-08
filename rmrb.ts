@@ -13,5 +13,6 @@ export default {
   "parser_option": {},
   "parser_id": "rmrb",
   "path": "/archives10/7z",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }

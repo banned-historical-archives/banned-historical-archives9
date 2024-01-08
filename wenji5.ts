@@ -22,5 +22,6 @@ export default {
   },
   "parser_id": "wenji",
   "path": "books/wenji5.pdf",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }

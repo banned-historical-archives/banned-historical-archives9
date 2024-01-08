@@ -20,5 +20,6 @@ export default {
   },
   "parser_id": "zhangchunqiao",
   "path": "books/zhangchunqiao.pdf",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }

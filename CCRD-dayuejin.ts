@@ -13,5 +13,6 @@ export default {
   "parser_option": {},
   "parser_id": "CCRD",
   "path": "CCRD/2",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }

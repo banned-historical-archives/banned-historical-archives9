@@ -20,5 +20,6 @@ export default {
   },
   "parser_id": "zzj1",
   "path": "books/zzj1.pdf",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }

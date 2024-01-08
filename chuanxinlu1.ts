@@ -21,5 +21,6 @@ export default {
   },
   "parser_id": "chuanxinlu",
   "path": "books/十年文革中首长讲话传信录1.pdf",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }

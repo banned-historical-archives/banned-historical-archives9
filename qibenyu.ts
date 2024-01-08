@@ -15,5 +15,6 @@ export default {
   },
   "parser_id": "qibenyu",
   "path": "books/qibenyu.epub",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }

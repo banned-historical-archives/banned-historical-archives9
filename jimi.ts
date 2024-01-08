@@ -15,5 +15,6 @@ export default {
   },
   "parser_id": "jimi",
   "path": "books/机密档案中新发现的毛泽东讲话.epub",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }
