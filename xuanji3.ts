@@ -20,5 +20,6 @@ export default {
     "name": "xuanji3"
   },
   "parser_id": "xuanji",
-  "path": "books/毛泽东选集(1967)3.pdf"
+  "path": "books/毛泽东选集(1967)3.pdf",
+  "resource_type": "book"
 }

@@ -23,5 +23,6 @@ export default {
     ]
   },
   "parser_id": "jqjianghua",
-  "path": "books/jqjianghua.pdf"
+  "path": "books/jqjianghua.pdf",
+  "resource_type": "book"
 }

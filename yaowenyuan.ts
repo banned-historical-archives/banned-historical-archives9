@@ -19,5 +19,6 @@ export default {
     ]
   },
   "parser_id": "yaowenyuan",
-  "path": "books/姚文元文录.pdf"
+  "path": "books/姚文元文录.pdf",
+  "resource_type": "book"
 }

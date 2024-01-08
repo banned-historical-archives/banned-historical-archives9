@@ -21,5 +21,6 @@ export default {
     "content_min_x": 44.88
   },
   "parser_id": "wenji",
-  "path": "books/wenji2.pdf"
+  "path": "books/wenji2.pdf",
+  "resource_type": "book"
 }

@@ -12,5 +12,6 @@ export default {
   },
   "parser_option": {},
   "parser_id": "CCRD",
-  "path": "CCRD/3"
+  "path": "CCRD/3",
+  "resource_type": "book"
 }

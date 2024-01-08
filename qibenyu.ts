@@ -14,5 +14,6 @@ export default {
     "page_limits": []
   },
   "parser_id": "qibenyu",
-  "path": "books/qibenyu.epub"
+  "path": "books/qibenyu.epub",
+  "resource_type": "book"
 }

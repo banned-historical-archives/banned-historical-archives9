@@ -12,5 +12,6 @@ export default {
   },
   "parser_option": {},
   "parser_id": "rmrb",
-  "path": "/archives10/7z"
+  "path": "/archives10/7z",
+  "resource_type": "book"
 }

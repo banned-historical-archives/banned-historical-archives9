@@ -19,5 +19,6 @@ export default {
     ]
   },
   "parser_id": "wanghongwen",
-  "path": "books/王洪文文集.pdf"
+  "path": "books/王洪文文集.pdf",
+  "resource_type": "book"
 }

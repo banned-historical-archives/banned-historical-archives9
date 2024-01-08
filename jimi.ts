@@ -14,5 +14,6 @@ export default {
     "page_limits": []
   },
   "parser_id": "jimi",
-  "path": "books/机密档案中新发现的毛泽东讲话.epub"
+  "path": "books/机密档案中新发现的毛泽东讲话.epub",
+  "resource_type": "book"
 }

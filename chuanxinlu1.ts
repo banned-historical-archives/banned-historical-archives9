@@ -20,5 +20,6 @@ export default {
     "idx": 1
   },
   "parser_id": "chuanxinlu",
-  "path": "books/十年文革中首长讲话传信录1.pdf"
+  "path": "books/十年文革中首长讲话传信录1.pdf",
+  "resource_type": "book"
 }
